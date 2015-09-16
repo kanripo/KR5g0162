@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:59:20.810589
+#+TITLE: 上清道寶經
+#+PROPERTY: DZID  DZ1353
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—699 五卷 正一部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
